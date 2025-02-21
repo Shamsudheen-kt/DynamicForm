@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DynamicForm/static/css/main.e6c13ad2.css",
+    "main.js": "/DynamicForm/static/js/main.eb34478b.js",
+    "static/js/488.6bb4c105.chunk.js": "/DynamicForm/static/js/488.6bb4c105.chunk.js",
+    "index.html": "/DynamicForm/index.html",
+    "main.e6c13ad2.css.map": "/DynamicForm/static/css/main.e6c13ad2.css.map",
+    "main.eb34478b.js.map": "/DynamicForm/static/js/main.eb34478b.js.map",
+    "488.6bb4c105.chunk.js.map": "/DynamicForm/static/js/488.6bb4c105.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eb34478b.js"
+  ]
+}
